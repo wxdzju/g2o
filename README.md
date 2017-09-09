@@ -6,9 +6,6 @@ https://github.com/RainerKuemmerle/g2o
 Compiling method in Ubuntu 14.04:
 cd g2o
 mkdir build
-
 cd build
-
 cmake ../
-
 make
